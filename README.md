@@ -12,7 +12,7 @@ Customer churn is a critical business problem where companies lose revenue when 
 - Evaluated models using accuracy, precision, recall, and F1 score
 
 # **Dataset**
-I used A dataset from Uneeq organization which is anonymized version
+I used A dataset from Uneeq organization which is anonymized version 
 
 # **Visualizations**
 - Confusion Matrix (to evaluate misclassifications)
